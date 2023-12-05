@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java,Docker and Kubernetes**
 
-- ⚡ Fun fact **I have 40cm arms and im addicted to work out 😂😁**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,6 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobrocchi&show_icons=true&locale=en&layout=compact" alt="joaobrocchi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaobrocchi&show_icons=true&locale=en" alt="joaobrocchi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaobrocchi&" alt="joaobrocchi" /></p>
+- ⚡ Fun fact **I have 40cm arms and im addicted to work out 😂😁**
