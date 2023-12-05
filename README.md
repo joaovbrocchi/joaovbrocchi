@@ -7,6 +7,7 @@
 🚀 As a technology enthusiast, I am constantly exploring new horizons in the world of software development. My journey as a student has equipped me with the skills to delve into the intricacies of software engineering.
 
 🔧 My toolbox includes a variety of languages and tools, as you can see below.
+
 🌟 I believe in the transformative power of technology to solve real-world problems and improve the human experience. Whether it's crafting elegant code or embracing the challenges of software development, I'm dedicated to making a positive impact through my work.
 
 📚 Currently on a journey to learn, grow, and contribute to the ever-evolving tech landscape. Let's connect and build something amazing together!
