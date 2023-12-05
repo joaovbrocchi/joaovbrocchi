@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joão vitor brocchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão vitor brocchi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-brocchi-60736525a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão vitor brocchi" height="30" width="40" /></a>
 <a href="https://instagram.com/joaovbrocchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaovbrocchi" height="30" width="40" /></a>
 </p>
 
