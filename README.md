@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobrocchi&show_icons=true&locale=en&layout=compact" alt="joaobrocchi" /></p>
 
-
+[![Countinous-integration-with-github](https://github.com/joaovbrocchi/micro-01/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/joaovbrocchi/micro-01/actions/workflows/docker-publish.yml)
