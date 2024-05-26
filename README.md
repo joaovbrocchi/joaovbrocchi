@@ -1,19 +1,8 @@
 [![Countinous-integration-with-github](https://github.com/joaovbrocchi/micro-01/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/joaovbrocchi/micro-01/actions/workflows/docker-publish.yml)
 
-<h1 align="center">Hi 👋, I'm João Vitor Brocchi</h1>
+<h1 align="center">Hi 👋, I'm João/h1>
 <h3 align="center">
-  ### About Me:
-
-🌍 I'm a passionate technology enthusiast and a software engineering student at FIAP (Faculdade de Informática e Administração Paulista). I am deeply fascinated by the positive impact technology can have on people's lives.
-
-🚀 As a technology enthusiast, I am constantly exploring new horizons in the world of software development. My journey as a student has equipped me with the skills to delve into the intricacies of software engineering.
-
-🔧 My toolbox includes a variety of languages and tools, as you can see below.
-
-🌟 I believe in the transformative power of technology to solve real-world problems and improve the human experience. Whether it's crafting elegant code or embracing the challenges of software development, I'm dedicated to making a positive impact through my work.
-
-📚 Currently on a journey to learn, grow, and contribute to the ever-evolving tech landscape. Let's connect and build something amazing together!
-
+  I'm just a guy who likes to build stuff.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
