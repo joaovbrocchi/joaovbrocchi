@@ -1,6 +1,6 @@
 [![Countinous-integration-with-github](https://github.com/joaovbrocchi/micro-01/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/joaovbrocchi/micro-01/actions/workflows/docker-publish.yml)
 
-<h1 align="center">Hi 👋, I'm João/h1>
+<h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">
   I'm just a guy who likes to build stuff.
 </h3>
