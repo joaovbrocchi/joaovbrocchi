@@ -1,8 +1,5 @@
 
 <h1 align="center">João Vitor Brocchi</h1>
-<h3 align="center">
-  I'm just a guy who likes to build stuff.
-</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
